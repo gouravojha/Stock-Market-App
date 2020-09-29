@@ -1,0 +1,9 @@
+pip install the following packages :
+
+streamlit
+pandas
+numpy
+nsetools
+nsepy
+request
+urllib
